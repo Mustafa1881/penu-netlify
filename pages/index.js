@@ -9,11 +9,10 @@ export default function Home() {
         <title>PENU Official Web Site</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-
       <main>
         <h1>penu1881@gmail.com</h1>
       </main>
-
+    
       <Footer />
     </div>
   )
