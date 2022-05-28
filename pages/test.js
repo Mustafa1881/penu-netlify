@@ -10,11 +10,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <h1>penu1881@gmail.com</h1>
-       <div class="a-div">
-       <a class='test' href='test'>TEST</a> 
-         </div> 
-        
+{/* ----------------------------------------------------------------------------------------- */}
+        <h1>test</h1>
+        <a href='/'>Anasayfa</a>
+{/* ----------------------------------------------------------------------------------------- */}
       </main>
     
       <Footer />
