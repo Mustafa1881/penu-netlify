@@ -11,10 +11,7 @@ export default function Home() {
       </Head>
       <main>
         <h1>penu1881@gmail.com</h1>
-       <div class="a-div">
-       <a class='test' href='test'>TEST</a> 
-         </div> 
-        
+        <a class='test' href='test'>TEST</a>
       </main>
     
       <Footer />
